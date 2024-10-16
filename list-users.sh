@@ -1,4 +1,8 @@
 #!/bin/bash
+#author: Syed Hyder
+#date: 10-09-2024
+# This shellscript will list the user that have view our ripository in github using Github API
+#version: V1
 
 # GitHub API URL
 API_URL="https://api.github.com"
